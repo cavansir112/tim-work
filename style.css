@@ -1,0 +1,43 @@
+body{
+    font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container1{
+    max-width: 1140px;;
+}
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
+    
+}
+.service h3{
+    margin: 15px 0px;
+}
+.service p{
+    text-align: center;
+    color:#6C757D;
+    font-size: 18px
+}
+.service{
+    display: flex;
+    flex-direction: column;
+    align-items: center
+
+}
+.service i{
+    font-size: 70px;
+    color:#f05f40;
+}
+.color{
+    justify-content: center;
+    max-width: 14%;
+
+}
+.col{
+    display: flex;
+    justify-content: center;
+}
